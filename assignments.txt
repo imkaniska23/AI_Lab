@@ -1,0 +1,9 @@
+1. List operations.
+2. Depth First Search.
+3. Breadth First Search.
+4. Best First Search.
+5. Implement A*
+6. Implement AO*
+7. 8-Puzzle using steepest accent hill climbing
+8. Rubik's cube using ?
+9. Goal Stack Planning
